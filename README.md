@@ -46,16 +46,6 @@ A clean, responsive, and minimalist personal portfolio website built using **HTM
   
 - **Fonts**: Replace the Google Fonts link in `index.html` with your preferred font.
 
-### Add Projects
-Insert new project cards in the **Projects** section:
-html
-<div class="project-card">
-  <img src="assets/projects/your-project-image.jpg" alt="Project Title">
-  <h3>Project Title</h3>
-  <p>Project description goes here.</p>
-</div>
-
-
 ## 🤝 Contributing
 
 Contributions are welcome! Follow these steps:
@@ -77,7 +67,6 @@ Please ensure your code adheres to existing styles and includes comments where n
 
 **Abram Emad**  
 - GitHub: [Abram-Emad](https://github.com/Abram-Emad)  
-- Email: example@email.com  
 
 Feel free to reach out for questions, feedback, or collaborations!
 
